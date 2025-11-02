@@ -76,7 +76,7 @@ I'm a Data Analyst passionate about working with numbers, solving business probl
 
 ---
 
-## 📸 Screenshots *(Optional)*
+## 📸 Project Preview
 <img width="1168" height="639" alt="image" src="https://github.com/user-attachments/assets/324e06e8-301b-4924-bca1-db2afe3237f9" />
 <img width="1170" height="635" alt="image" src="https://github.com/user-attachments/assets/a6104421-0383-4287-822b-b108c19589b8" />
 
